@@ -4,3 +4,4 @@
 * Got married in 1992
 * have 4 children
 * fav colour is: brown
+* current occupation: available
